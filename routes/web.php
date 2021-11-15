@@ -23,6 +23,10 @@ Route::get('/blog', function () {
     return view('blog');
 });
 
+Route::get('/news', function () {
+    return view('news');
+});
+
 Route::get('/classification', function () {
     return view('classification');
 });

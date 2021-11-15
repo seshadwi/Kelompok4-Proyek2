@@ -25,7 +25,7 @@
   <header>
     <nav class="navbar navbar-expand-lg navbar-light bg-white sticky" data-offset="500">
       <div class="container">
-        <a href="#" class="navbar-brand">Seo<span class="text-primary">Gram.</span></a>
+        <a href="#" class="navbar-brand"><span class="text-primary">Kelapah</span>.</a>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -42,6 +42,9 @@
             <li class="nav-item">
               <a class="nav-link" href="/blog">Blog</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/news">News</a>
+              </li>
             <li class="nav-item">
               <a class="btn btn-primary ml-lg-2" href="/classification">Waste Classification</a>
             </li>
@@ -326,7 +329,7 @@
             <h2 class="title-section">SEO to Improve Brand <br> Visibility</h2>
             <div class="divider"></div>
             <p>We're an experienced and talented team of passionate consultants who breathe with search engine marketing.</p>
-            
+
             <ul class="theme-list theme-list-light text-white">
               <li>
                 <div class="h5">SEO Content Strategy</div>
@@ -371,7 +374,7 @@
             </div>
           </div>
         </div>
-        
+
         <div class="col-lg-4 py-3 wow fadeInUp">
           <div class="card-blog">
             <div class="header">
@@ -461,6 +464,6 @@
 <script src="../assets/vendor/wow/wow.min.js"></script>
 
 <script src="../assets/js/theme.js"></script>
-  
+
 </body>
 </html>

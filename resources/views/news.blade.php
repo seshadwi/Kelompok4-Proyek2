@@ -38,11 +38,11 @@
             <li class="nav-item">
               <a class="nav-link" href="/about">About</a>
             </li>
-            <li class="nav-item active">
+            <li class="nav-item">
               <a class="nav-link" href="/blog">Blog</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/news">News</a>
+            <li class="nav-item active">
+                <a class="nav-link" href="/blog">News</a>
               </li>
             <li class="nav-item">
               <a class="btn btn-primary ml-lg-2" href="/classification">Waste Classification</a>
@@ -60,10 +60,10 @@
             <nav aria-label="Breadcrumb">
               <ul class="breadcrumb justify-content-center py-0 bg-transparent">
                 <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                <li class="breadcrumb-item active">Blog</li>
+                <li class="breadcrumb-item active">News</li>
               </ul>
             </nav>
-            <h1 class="text-center">Blog</h1>
+            <h1 class="text-center">News</h1>
           </div>
         </div>
       </div>
@@ -94,134 +94,62 @@
         </div>
       </div>
 
-      <div class="row my-5">
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-1.jpg" alt="">
-              </div>
+      <div class="page-section">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6 py-3">
+              <h2 class="title-section">Dari Nasabah untuk Nasabah</h2>
+              <div class="post-date">25 Feb 2020</a></div>
+              <div class="divider"></div>
+              <p>Kegiatan BSM melalui pendekatan ekonomi saat ini sudah dapat merubah mindset tentang sampah yang dulunya sumber masalah sekarang telah berubah menjadi sampah adalah rupiah (berkah), merubah perilaku yang dulunya masyarakat membuang sampah ditong sampah ataupun di sungai sudah berubah sampah  [...]</p>
+              <div class="post-date"><a href="#">Read More ...</a></div>
             </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
+            <div class="col-lg-6 py-3">
+              <div class="img-fluid py-3 text-center">
+                <img src="../assets/img/1.jpg" alt="">
+              </div>
             </div>
           </div>
         </div>
+        <div class="container">
+            <div class="row align-items-center">
+              <div class="col-lg-6 py-3">
+                <h2 class="title-section">Tampil Cantik dengan Busana Berbahan Sampah Plastik</h2>
+                <div class="post-date">Posted On 25 Feb 2019</div>
+                <div class="divider"></div>
+                <p>Malang pojokpitu.com, Limbah rumah tangga atau sampah rumah tangga ternyata bisa dimanfaatkan untuk membuat busana yang indah. Bahkan di Kecamatan Cemorokandang, Kota Malang, digelar fashion show busana berbahan sampah plastik.Aksi warga Perumahan Villa Gunung Buring, RW 8 Kota Malang, yang  [...]</p>
 
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-2.jpg" alt="">
+                <div class="post-date"><a href="#">Read More ...</a></div>
+              </div>
+              <div class="col-lg-6 py-3">
+                <div class="img-fluid py-3 text-center">
+                  <img src="../assets/img/2.jpg" alt="">
+                </div>
               </div>
             </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
           </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-3.jpg" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-4.jpg" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-5.jpg" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-6.jpg" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-1.jpg" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-2.jpg" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="../assets/img/blog/blog-3.jpg" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
       </div>
+  </div>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 py-3">
+        <h2 class="title-section">Lewat Bank Sampah Guru Honorer di Malang Kejar Mimpi Raih Gelar Magister</h2>
+        <div class="post-date">Posted on 25 Feb 2019</div>
+        <div class="divider"></div>
+
+        <p>Liputan6.com, Malang - Sampah ibarat dua sisi mata uang. Jika tak ditangani dengan baik pastinya menimbulkan masalah. Di sisi lain, bisa menjadi berkah kalau dikelola dan dimanfaatkan dengan tepat. Bank sampah adalah salah satu sisi pemanfaatan itu. Sulaiman Sulang, staf hubungan masyarakat  [...]</p>
+        <div class="post-date"><a href="#">Read More ...</a></div>
+      </div>
+      <div class="col-lg-6 py-3">
+        <h2 class="title-section">Sim salambim, sampah plastic jadi paling blok warna- warni</h2>
+        <div class="post-date">Posted on 25 Feb 2019</div>
+        <div class="divider"></div>
+        <p>Liputan6.com, Purbalingga - Tumpukan karung berisi sampah plastik menggunung di gudang CV Sipbangga, Karanglewas, Kutasari, Purbalingga, Jawa Tengah. Dua pria sigap memindahkan sampah-sampah plastik ini ke semacam panci besar di atas tungku yang menyala. Setelah mencair, limbah plastik yang tak  [...]</p>
+        <div class="post-date"><a href="#">Read More ...</a></div>
+    </div>
+    </div>
+  </div>
+</div>
 
       <nav aria-label="Page Navigation">
         <ul class="pagination justify-content-center">
